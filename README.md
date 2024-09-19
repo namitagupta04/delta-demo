@@ -8,4 +8,4 @@ Namita Gupta
 
 # Salary
 
-12 LPA
+12 LPA.
